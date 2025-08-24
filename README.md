@@ -1,35 +1,18 @@
-# 👩‍💻 Tayyaba Rehan  
+# 💫 About Me:
+# 👩‍💻 Tayyaba Rehan  <br><br>**Hi there!**  <br>I’m **Tayyaba Rehan**, a passionate software developer currently pursuing **dual degrees in Computer Science from Virtual University** and **Software Engineering from Aptech**, set to graduate in 2025 🎓.  <br><br>With a solid foundation in **Java, C++, .NET MVC, SQL, PHP, MySQL**, and **mobile app development** using **Flutter and Dart**, I thrive on crafting innovative software solutions 💻. My journey is fueled by a deep interest in **AI** and emerging technologies, and I aspire to create impactful projects that solve real-world problems and drive meaningful progress 🚀.  <br><br>---<br><br>## 💡 **Projects**  <br>Here are some of the exciting projects I’ve worked on:  <br>- **Movie Streaming Website**: A CRUD-enabled streaming platform built using **PHP** and database integration.  <br>- **NGO Management System**: Developed with **C# and .NET**, featuring admin and user functionalities.  <br>- **E-Commerce Platform**: Designed a functional front-end for a cosmetics and jewelry store.  <br>- **Hair Treatment Website**: Created a responsive front-end using **HTML, CSS, JavaScript, and Bootstrap**.  <br><br>---<br><br>## 🔧 **Languages and Tools**  <br><br>Here’s what I bring to the table:  <br>- **Languages**: Java, C++, PHP, SQL, Dart  <br>- **Frameworks & Libraries**: .NET MVC, Flutter  <br>- **Web Development**: HTML5, CSS3, JavaScript, Bootstrap  <br>- **Databases**: MySQL, Microsoft SQL Server  <br>- **Version Control**: Git, GitHub  <br>- **Other Tools**: Node.js, React, Figma  <br><br>---<br><br>## 📫 **Get in Touch**  <br>I’d love to connect and collaborate!  <br>- **Email**: [tayyabarehanmansoori0099@gmail.com](mailto:tayyabarehanmansoori0099@gmail.com)  <br><br>Let’s create something extraordinary together! ✨<br>
 
-**Hi there!**  
-I’m **Tayyaba Rehan**, a passionate software developer currently pursuing **dual degrees in Computer Science from Virtual University** and **Software Engineering from Aptech**, set to graduate in 2025 🎓.  
 
-With a solid foundation in **Java, C++, .NET MVC, SQL, PHP, MySQL**, and **mobile app development** using **Flutter and Dart**, I thrive on crafting innovative software solutions 💻. My journey is fueled by a deep interest in **AI** and emerging technologies, and I aspire to create impactful projects that solve real-world problems and drive meaningful progress 🚀.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn: www.linkedin.com/in/tayyabarehan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:- **Email**: [tayyabarehanmansoori0099@gmail.com](mailto:tayyabarehanmansoori0099@gmail.com)  ) 
 
----
-
-## 💡 **Projects**  
-Here are some of the exciting projects I’ve worked on:  
-- **Movie Streaming Website**: A CRUD-enabled streaming platform built using **PHP** and database integration.  
-- **NGO Management System**: Developed with **C# and .NET**, featuring admin and user functionalities.  
-- **E-Commerce Platform**: Designed a functional front-end for a cosmetics and jewelry store.  
-- **Hair Treatment Website**: Created a responsive front-end using **HTML, CSS, JavaScript, and Bootstrap**.  
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tayyabamansoori&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tayyabamansoori&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabamansoori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=tayyabamansoori&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔧 **Languages and Tools**  
-
-Here’s what I bring to the table:  
-- **Languages**: Java, C++, PHP, SQL, Dart  
-- **Frameworks & Libraries**: .NET MVC, Flutter  
-- **Web Development**: HTML5, CSS3, JavaScript, Bootstrap  
-- **Databases**: MySQL, Microsoft SQL Server  
-- **Version Control**: Git, GitHub  
-- **Other Tools**: Node.js, React, Figma  
-
----
-
-## 📫 **Get in Touch**  
-I’d love to connect and collaborate!  
-- **Email**: [tayyabarehanmansoori0099@gmail.com](mailto:tayyabarehanmansoori0099@gmail.com)  
-
-Let’s create something extraordinary together! ✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
